@@ -1,4 +1,4 @@
-# Sistema-dereflejos
+
 # Electrónica Digital II  
 
 Repositorio correspondiente a la asignatura Electrónica Digital II.
